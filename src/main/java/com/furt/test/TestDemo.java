@@ -13,6 +13,7 @@ public class TestDemo {
         System.out.println("hello git");
         System.out.println("hello git 2");
         System.out.println("hot fix");
+        System.out.println("fot fix commit");
     }
 
 }
